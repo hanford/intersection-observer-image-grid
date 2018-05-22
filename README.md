@@ -4,6 +4,12 @@
 
 [website](https://out-jsmdobzopd.now.sh/)
 
+## Cloning repo
+
+```sh
+$ npm install && npm run dev
+```
+
 ## License
 
 MIT © [Jack Hanford](http://jackhanford.com)
